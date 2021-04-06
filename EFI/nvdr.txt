@@ -1,0 +1,3 @@
+https://www.nvidia.com/download/driverResults.aspx/125379/en-us
+
+自己安装web driver
